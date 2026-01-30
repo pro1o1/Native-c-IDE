@@ -1,4 +1,4 @@
-# Pure IDE - Native C++ Visual Development Environment
+# Core IDE - Native C++ Visual Development Environment
 
 **Pure IDE** is a lightweight, high-performance Integrated Development Environment (IDE) built entirely from scratch using the native Windows API (Win32). It is designed to provide a Delphi/Visual Basic-like visual design experience for modern C++ development, without the bloat of heavy frameworks.
 
